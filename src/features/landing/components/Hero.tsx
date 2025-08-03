@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Play, Download, CheckCircle, Award, Sparkles } from 'lucide-react';
-import { Container, Button, Badge, GlassPanel, GlassCard, MagneticButton } from '@/components/ui';
+import { Container, Badge, GlassPanel, GlassCard, MagneticButton } from '@/components/ui';
 import { useLanguage } from '@/hooks';
 import { backgroundImage } from '@/assets';
 

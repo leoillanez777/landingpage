@@ -138,17 +138,22 @@ const products: Product[] = [
   {
     id: 5,
     name: 'InRoom',
+    categoryKey: 'hotelCategory',
     category: 'Hotelería',
+    descriptionKey: 'inRoom',
     description: 'Software moderno para gestión de hoteles y moteles',
+    fullDescriptionKey: 'inRoom',
     fullDescription: 'Plataforma integral diseñada específicamente para la industria hotelera moderna, optimizando la gestión de habitaciones, huéspedes y servicios con tecnología de vanguardia.',
     icon: <Hotel className="w-8 h-8" />,
     featuresKey: 'inRoom',
+    benefitsKey: 'inRoom',
     benefits: [
       'Reduce tiempo de check-in en 70%',
       'Optimiza ocupación hotelera',
       'Mejora experiencia del huésped',
       'Automatiza procesos operativos'
     ],
+    targetAudienceKey: 'inRoom',
     targetAudience: 'Hoteles, Moteles, Apart Hoteles, Hostales',
     color: 'from-orange-500 to-red-500',
     popular: true
@@ -156,17 +161,22 @@ const products: Product[] = [
   {
     id: 6,
     name: 'LumenAI',
+    categoryKey: 'utilityCategory',
     category: 'Servicios Públicos',
+    descriptionKey: 'lumenAI',
     description: 'Gestión inteligente de energía con IA para empresas eléctricas',
+    fullDescriptionKey: 'lumenAI',
     fullDescription: 'Sistema integral con IA que revoluciona la gestión de servicios eléctricos, automatizando facturación, reclamos y consultas mediante asistente inteligente con lenguaje natural.',
     icon: <Zap className="w-8 h-8" />,
     featuresKey: 'lumenAI',
+    benefitsKey: 'lumenAI',
     benefits: [
       'Reduce reclamos manuales en 85%',
       'Atención automatizada 24/7',
       'Mejora satisfacción del cliente',
       'Optimiza gestión de cobranzas'
     ],
+    targetAudienceKey: 'lumenAI',
     targetAudience: 'Empresas Eléctricas, Cooperativas, Distribuidoras',
     color: 'from-yellow-500 to-amber-500',
     popular: true
@@ -174,68 +184,88 @@ const products: Product[] = [
   {
     id: 7,
     name: 'MediFlow',
+    categoryKey: 'hospitalCategory',
     category: 'Gestión Hospitalaria',
+    descriptionKey: 'mediFlow',
     description: 'Sistema avanzado de gestión de pacientes hospitalizados',
+    fullDescriptionKey: 'mediFlow',
     fullDescription: 'Solución integral para el control y seguimiento de pacientes internados, optimizando la ocupación de camas y mejorando la calidad de atención.',
     icon: <Bed className="w-8 h-8" />,
     featuresKey: 'mediFlow',
+    benefitsKey: 'mediFlow',
     benefits: [
       'Optimiza ocupación hospitalaria',
       'Reduce tiempos de espera',
       'Mejora flujo de pacientes',
       'Aumenta eficiencia operativa'
     ],
+    targetAudienceKey: 'mediFlow',
     targetAudience: 'Hospitales, Sanatorios, Clínicas',
     color: 'from-emerald-500 to-teal-500'
   },
   {
     id: 8,
     name: 'Aclimed',
+    categoryKey: 'managementCategory',
     category: 'Gestión Integral',
+    descriptionKey: 'aclimed',
     description: 'Plataforma completa de administración médica',
+    fullDescriptionKey: 'aclimed',
     fullDescription: 'Sistema integral que centraliza toda la gestión administrativa médica, desde turnos hasta tratamientos, en una sola plataforma intuitiva.',
     icon: <Users className="w-8 h-8" />,
     featuresKey: 'aclimed',
+    benefitsKey: 'aclimed',
     benefits: [
       'Centraliza toda la información',
       'Reduce errores administrativos',
       'Mejora control de ingresos',
       'Facilita toma de decisiones'
     ],
+    targetAudienceKey: 'aclimed',
     targetAudience: 'Centros Médicos, Clínicas, Obras Sociales',
     color: 'from-purple-500 to-indigo-500'
   },
   {
     id: 9,
     name: 'Zismed',
+    categoryKey: 'publicHealthCategory',
     category: 'Hospitalización',
+    descriptionKey: 'zismed',
     description: 'Optimización de recursos hospitalarios públicos',
+    fullDescriptionKey: 'zismed',
     fullDescription: 'Especializado en la gestión eficiente de recursos en hospitales públicos, mejorando la asignación de camas y el seguimiento de pacientes.',
     icon: <Building2 className="w-8 h-8" />,
     featuresKey: 'zismed',
+    benefitsKey: 'zismed',
     benefits: [
       'Mejora atención en hospitales públicos',
       'Optimiza recursos limitados',
       'Reduce tiempos de espera',
       'Facilita reporting gubernamental'
     ],
+    targetAudienceKey: 'zismed',
     targetAudience: 'Hospitales Públicos, Ministerios de Salud',
     color: 'from-red-500 to-pink-500'
   },
   {
     id: 10,
     name: 'MedicPay',
+    categoryKey: 'billingCategory',
     category: 'Facturación',
+    descriptionKey: 'medicPay',
     description: 'Sistema integral de facturación y cobranza médica',
+    fullDescriptionKey: 'medicPay',
     fullDescription: 'Automatiza todo el proceso de facturación médica, desde la prestación hasta el cobro, integrándose con obras sociales y prepagas.',
     icon: <CreditCard className="w-8 h-8" />,
     featuresKey: 'medicPay',
+    benefitsKey: 'medicPay',
     benefits: [
       'Acelera proceso de cobranza',
       'Reduce errores de facturación',
       'Mejora flujo de caja',
       'Automatiza reconciliaciones'
     ],
+    targetAudienceKey: 'medicPay',
     targetAudience: 'Clínicas, Consultorios, Centros Médicos',
     color: 'from-green-500 to-emerald-500',
     popular: true
@@ -243,102 +273,132 @@ const products: Product[] = [
   {
     id: 11,
     name: 'FinFlow',
+    categoryKey: 'administrationCategory',
     category: 'Administración',
+    descriptionKey: 'finFlow',
     description: 'Gestión administrativa para prestadores de salud',
+    fullDescriptionKey: 'finFlow',
     fullDescription: 'Plataforma especializada en la administración de servicios de salud, optimizando la gestión de afiliados y prestaciones.',
     icon: <Shield className="w-8 h-8" />,
     featuresKey: 'finFlow',
+    benefitsKey: 'finFlow',
     benefits: [
       'Optimiza gestión de afiliados',
       'Controla costos de prestaciones',
       'Mejora experiencia del usuario',
       'Facilita cumplimiento normativo'
     ],
+    targetAudienceKey: 'finFlow',
     targetAudience: 'Obras Sociales, Prepagas, Mutuales',
     color: 'from-orange-500 to-red-500'
   },
   {
     id: 12,
     name: 'Validtek',
+    categoryKey: 'validationCategory',
     category: 'Validación',
+    descriptionKey: 'validtek',
     description: 'Sistema de validación y autorización de prácticas médicas',
+    fullDescriptionKey: 'validtek',
     fullDescription: 'Herramienta especializada en la verificación y autorización de prácticas médicas, asegurando cumplimiento y calidad.',
     icon: <CheckSquare className="w-8 h-8" />,
     featuresKey: 'validtek',
+    benefitsKey: 'validtek',
     benefits: [
       'Asegura calidad de servicios',
       'Reduce riesgos de cumplimiento',
       'Automatiza autorizaciones',
       'Mejora control de calidad'
     ],
+    targetAudienceKey: 'validtek',
     targetAudience: 'Reguladores, Obras Sociales, Instituciones',
     color: 'from-cyan-500 to-blue-500'
   },
   {
     id: 13,
     name: 'Farmatek',
+    categoryKey: 'pharmacyCategory',
     category: 'Farmacia',
+    descriptionKey: 'farmatek',
     description: 'Validación de recetas con IVAF y Colmed',
+    fullDescriptionKey: 'farmatek',
     fullDescription: 'Sistema especializado en la validación de prescripciones médicas, integrándose con IVAF y Colegio Médico para garantizar autenticidad.',
     icon: <Pill className="w-8 h-8" />,
     featuresKey: 'farmatek',
+    benefitsKey: 'farmatek',
     benefits: [
       'Previene fraudes de recetas',
       'Asegura prescripciones válidas',
       'Mejora seguridad del paciente',
       'Cumple normativas farmacéuticas'
     ],
+    targetAudienceKey: 'farmatek',
     targetAudience: 'Farmacias, Droguerías, Cadenas Farmacéuticas',
     color: 'from-teal-500 to-cyan-500'
   },
   {
     id: 14,
     name: 'DocAlliance',
+    categoryKey: 'professionalsCategory',
     category: 'Profesionales',
+    descriptionKey: 'docAlliance',
     description: 'Gestión para kinesiólogos y fonoaudiólogos',
+    fullDescriptionKey: 'docAlliance',
     fullDescription: 'Plataforma especializada en la administración de profesionales de la salud, optimizando la gestión de tratamientos y registros.',
     icon: <UserCheck className="w-8 h-8" />,
     featuresKey: 'docAlliance',
+    benefitsKey: 'docAlliance',
     benefits: [
       'Optimiza práctica profesional',
       'Mejora seguimiento de tratamientos',
       'Facilita facturación',
       'Centraliza información clínica'
     ],
+    targetAudienceKey: 'docAlliance',
     targetAudience: 'Kinesiólogos, Fonoaudiólogos, Terapeutas',
     color: 'from-violet-500 to-purple-500'
   },
   {
     id: 15,
     name: 'BalanceWeb',
+    categoryKey: 'accountingCategory',
     category: 'Contabilidad',
+    descriptionKey: 'balanceWeb',
     description: 'Sistema automatizado de contabilidad empresarial',
+    fullDescriptionKey: 'balanceWeb',
     fullDescription: 'Solución contable integral que automatiza procesos financieros y genera reportes de cumplimiento para empresas del sector salud.',
     icon: <Calculator className="w-8 h-8" />,
     featuresKey: 'balanceWeb',
+    benefitsKey: 'balanceWeb',
     benefits: [
       'Automatiza procesos contables',
       'Reduce errores financieros',
       'Mejora control de costos',
       'Facilita cumplimiento fiscal'
     ],
+    targetAudienceKey: 'balanceWeb',
     targetAudience: 'Empresas de Salud, Clínicas, Centros Médicos',
     color: 'from-amber-500 to-orange-500'
   },
   {
     id: 16,
     name: 'GremioCash',
+    categoryKey: 'unionCategory',
     category: 'Sindical',
+    descriptionKey: 'gremioCash',
     description: 'Administración de servicios para afiliados UPCN',
+    fullDescriptionKey: 'gremioCash',
     fullDescription: 'Sistema especializado en la gestión de beneficios y servicios para afiliados sindicales, optimizando la administración gremial.',
     icon: <Building className="w-8 h-8" />,
     featuresKey: 'gremioCash',
+    benefitsKey: 'gremioCash',
     benefits: [
       'Optimiza gestión sindical',
       'Mejora servicios a afiliados',
       'Centraliza información gremial',
       'Facilita control de beneficios'
     ],
+    targetAudienceKey: 'gremioCash',
     targetAudience: 'UPCN, Sindicatos, Organizaciones Gremiales',
     color: 'from-slate-500 to-gray-500'
   }
