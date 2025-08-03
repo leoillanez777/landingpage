@@ -1,0 +1,537 @@
+{
+  "nav": {
+    "products": "Products",
+    "solutions": "Solutions",
+    "about": "About Us",
+    "blog": "Blog",
+    "support": "Support",
+    "contact": "Contact",
+    "demo": "View Demo"
+  },
+  "hero": {
+    "badge": "+40 years transforming digital health in South America • ISO 9001 Certified",
+    "title1": "Smart Software with",
+    "title2": "Advanced AI",
+    "title3": "for Healthcare, Hospitality & Services",
+    "subtitle": "16 AI-powered solutions: WhatsApp virtual assistants, intelligent medical management, modern hospitality and public services. +40 years of market trust with ISO 9001 certification.",
+    "cta1": "View Live Demo",
+    "cta2": "Download Guide",
+    "feature1": "WhatsApp Conversational AI",
+    "feature2": "24/7 AI Support",
+    "feature3": "Complete API Integration",
+    "dashboard": "Dashboard",
+    "appointments": "Patients Today",
+    "patients": "Pending Appointments",
+    "efficiency": "Efficiency",
+    "revenue": "Monthly Revenue",
+    "nextPatient": "Next Patient"
+  },
+  "stats": {
+    "centers": "Medical Centers",
+    "years": "Years of Experience",
+    "reduction": "% Time Reduction",
+    "support": "Hours Support"
+  },
+  "benefits": {
+    "title1": "Why choose",
+    "title2": "Excelencia Digital?",
+    "subtitle": "We transform medical management with proven technology that generates immediate results",
+    "item1": {
+      "title": "Save 70% of Time",
+      "description": "Automate administrative tasks and reduce hours of manual work.",
+      "metric": "-70% time"
+    },
+    "item2": {
+      "title": "Improve Experience",
+      "description": "More satisfied patients with fast and professional care.",
+      "metric": "+95% satisfaction"
+    },
+    "item3": {
+      "title": "Guaranteed Security",
+      "description": "Full compliance with regulations and medical data protection.",
+      "metric": "100% secure"
+    },
+    "iso": {
+      "title": "ISO 9001",
+      "subtitle": "Quality Certification"
+    }
+  },
+  "products": {
+    "badge": "Our Products",
+    "title1": "Complete Suite of",
+    "title2": "Smart Software",
+    "subtitle": "16 innovative AI solutions for healthcare, hospitality and public services, transforming management from clinics to electric companies.",
+    "viewDetails": "View Details",
+    "popular": "Popular",
+    "features": "Features:",
+    "moreFeatures": "more features",
+    "description": "Description",
+    "targetAudience": "Target Audience",
+    "mainFeatures": "Main Features",
+    "keyBenefits": "Key Benefits",
+    "requestDemo": "Request Demo",
+    "moreInfo": "More Information",
+    "needCustom": "Need a custom solution?",
+    "customText": "Our team can adapt any of our products to the specific needs of your medical institution.",
+    "requestCustomDemo": "Request Custom Demo",
+    "checkPrices": "Check Prices",
+    "categories": {
+      "all": "All",
+      "ai": "Artificial Intelligence",
+      "appointments": "Appointment Management",
+      "hospital": "Hospital Management",
+      "management": "Comprehensive Management",
+      "hotel": "Hospitality",
+      "utilities": "Public Services",
+      "billing": "Billing",
+      "validation": "Validation",
+      "professionals": "Professionals"
+    },
+    "productFeatures": {
+      "aiMedAssist": {
+        "0": "Advanced medical conversational AI",
+        "1": "Natural language processing",
+        "2": "Updated medical knowledge base",
+        "3": "Integration with medical records",
+        "4": "Multi-language support",
+        "5": "Personalized continuous learning"
+      },
+      "whatsappMedBot": {
+        "0": "Native WhatsApp Business integration",
+        "1": "Medical consultations via chat",
+        "2": "Automatic medication reminders",
+        "3": "Symptom tracking",
+        "4": "Smart specialist referrals",
+        "5": "Medical conversational history"
+      },
+      "turnoBotWhatsApp": {
+        "0": "Natural language processing",
+        "1": "Conversational appointment booking",
+        "2": "WhatsApp Business API integration",
+        "3": "Smart automatic confirmation",
+        "4": "Chat rescheduling",
+        "5": "Multiple specialties and professionals"
+      },
+      "turMedica": {
+        "0": "24/7 online agenda for patients",
+        "1": "Automatic SMS/Email confirmation",
+        "2": "Google Calendar synchronization",
+        "3": "Waiting list management",
+        "4": "Automatic reminders",
+        "5": "Professional control panel"
+      },
+      "inRoom": {
+        "0": "Digital check-in/check-out",
+        "1": "Smart room management",
+        "2": "Integrated PMS system",
+        "3": "Real-time housekeeping control",
+        "4": "Automatic billing and reports",
+        "5": "Mobile app for guests"
+      },
+      "lumenAI": {
+        "0": "Autonomous AI assistant for claims and queries",
+        "1": "Complete energy claims management",
+        "2": "Smart automatic billing",
+        "3": "Current account and statement",
+        "4": "Customer consumption verification",
+        "5": "Natural language queries (consumption, bills)"
+      },
+      "mediFlow": {
+        "0": "Real-time bed occupancy control",
+        "1": "Hospitalized patient tracking",
+        "2": "Internal transfer management",
+        "3": "Average stay reports",
+        "4": "Medical discharge alerts",
+        "5": "Executive dashboard"
+      },
+      "aclimed": {
+        "0": "Complete patient management",
+        "1": "Treatment control",
+        "2": "Resource administration",
+        "3": "Integrated billing",
+        "4": "Analytical reports",
+        "5": "Multi-branch"
+      },
+      "zismed": {
+        "0": "Public resource optimization",
+        "1": "Hospitalized patient tracking",
+        "2": "Emergency management",
+        "3": "Referral control",
+        "4": "Ministerial reports",
+        "5": "Government system integration"
+      },
+      "medicPay": {
+        "0": "Automatic billing",
+        "1": "Social security integration",
+        "2": "Collection control",
+        "3": "Fee settlement",
+        "4": "Financial reports",
+        "5": "Regulatory compliance"
+      },
+      "finFlow": {
+        "0": "Affiliate management",
+        "1": "Service control",
+        "2": "Provider directory administration",
+        "3": "Utilization reports",
+        "4": "Authorization management",
+        "5": "Analytical dashboard"
+      },
+      "validtek": {
+        "0": "Medical practice validation",
+        "1": "Authorization control",
+        "2": "Credential verification",
+        "3": "Service auditing",
+        "4": "Compliance reports",
+        "5": "Regulator integration"
+      },
+      "farmatek": {
+        "0": "IVAF validation",
+        "1": "Colmed integration",
+        "2": "Prescription verification",
+        "3": "Prescription control",
+        "4": "Pharmaceutical reports",
+        "5": "Security alerts"
+      },
+      "docAlliance": {
+        "0": "Professional management",
+        "1": "Treatment control",
+        "2": "Session recording",
+        "3": "Specialized billing",
+        "4": "Patient tracking",
+        "5": "Professional reports"
+      },
+      "balanceWeb": {
+        "0": "Automated accounting",
+        "1": "Financial reports",
+        "2": "Tax compliance",
+        "3": "Expense control",
+        "4": "Profitability analysis",
+        "5": "Banking integration"
+      },
+      "gremioCash": {
+        "0": "UPCN affiliate management",
+        "1": "Benefit control",
+        "2": "Service administration",
+        "3": "Contribution tracking",
+        "4": "Union reports",
+        "5": "Affiliate portal"
+      }
+    },
+    "productCategories": {
+      "aiCategory": "Artificial Intelligence",
+      "appointmentsCategory": "Appointment Management",
+      "hospitalCategory": "Hospital Management",
+      "managementCategory": "Comprehensive Management",
+      "hotelCategory": "Hospitality",
+      "utilitiesCategory": "Public Services",
+      "billingCategory": "Billing",
+      "validationCategory": "Validation",
+      "professionalsCategory": "Professionals",
+      "accountingCategory": "Accounting",
+      "unionCategory": "Union",
+      "pharmacyCategory": "Pharmacy",
+      "hospitalizationCategory": "Hospitalization",
+      "administrationCategory": "Administration"
+    },
+    "productDescriptions": {
+      "aiMedAssist": "Medical assistant with conversational AI for 24/7 care",
+      "whatsappMedBot": "Smart medical assistant integrated with WhatsApp",
+      "turnoBotWhatsApp": "WhatsApp appointment booking in natural language",
+      "turMedica": "Smart online medical appointment booking system",
+      "inRoom": "Modern software for hotel and motel management",
+      "lumenAI": "Smart energy management with AI for electric companies",
+      "mediFlow": "Advanced hospitalized patient management system",
+      "aclimed": "Complete medical administration platform",
+      "zismed": "Public hospital resource optimization",
+      "medicPay": "Comprehensive medical billing and collection system",
+      "finFlow": "Administrative management for healthcare providers",
+      "validtek": "Medical practice validation and authorization system",
+      "farmatek": "Prescription validation with IVAF and Colmed",
+      "docAlliance": "Management for kinesiologists and speech therapists",
+      "balanceWeb": "Automated business accounting system",
+      "gremioCash": "Service administration for UPCN affiliates"
+    },
+    "productFullDescriptions": {
+      "aiMedAssist": "Revolutionary artificial intelligence assistant that provides conversational medical support, answers queries, schedules appointments and assists in preliminary diagnoses 24 hours a day.",
+      "whatsappMedBot": "AI assistant that operates directly on WhatsApp, enabling medical consultations, medication reminders and treatment follow-up through the most used app.",
+      "turnoBotWhatsApp": "Smart system that allows patients to book medical appointments by conversing naturally on WhatsApp, without forms or additional applications.",
+      "turMedica": "Complete platform that revolutionizes medical appointment management, allowing patients to book appointments online 24/7 while optimizing professionals' schedules.",
+      "inRoom": "Comprehensive platform designed specifically for the modern hospitality industry, optimizing room, guest and service management with cutting-edge technology.",
+      "lumenAI": "Comprehensive AI system that revolutionizes electrical service management, automating billing, claims and consultations through intelligent assistant with natural language.",
+      "mediFlow": "Comprehensive solution for control and tracking of hospitalized patients, optimizing bed occupancy and improving quality of care.",
+      "aclimed": "Comprehensive system that centralizes all medical administrative management, from appointments to treatments, in a single intuitive platform.",
+      "zismed": "Specialized in efficient resource management in public hospitals, improving bed allocation and patient tracking.",
+      "medicPay": "Automates the entire medical billing process, from service provision to collection, integrating with social security and insurance companies.",
+      "finFlow": "Platform specialized in health service administration, optimizing affiliate and service management.",
+      "validtek": "Tool specialized in verification and authorization of medical practices, ensuring compliance and quality.",
+      "farmatek": "System specialized in medical prescription validation, integrating with IVAF and Medical College to guarantee authenticity.",
+      "docAlliance": "Platform specialized in health professional administration, optimizing treatment and record management.",
+      "balanceWeb": "Comprehensive accounting solution that automates financial processes and generates compliance reports for health sector companies.",
+      "gremioCash": "System specialized in benefit and service management for union affiliates, optimizing union administration."
+    },
+    "productTargetAudience": {
+      "aiMedAssist": "Hospitals, Clinics, Telemedicine",
+      "whatsappMedBot": "Medical Offices, Independent Doctors, Clinics",
+      "turnoBotWhatsApp": "Medical Centers, Offices, Clinics",
+      "turMedica": "Medical Offices, Clinics, Medical Centers",
+      "inRoom": "Hotels, Motels, Apart Hotels, Hostels",
+      "lumenAI": "Electric Companies, Cooperatives, Distributors",
+      "mediFlow": "Hospitals, Sanatoriums, Clinics",
+      "aclimed": "Medical Centers, Clinics, Social Security",
+      "zismed": "Public Hospitals, Health Ministries",
+      "medicPay": "Clinics, Medical Offices, Medical Centers",
+      "finFlow": "Social Security, Insurance Companies, Mutuals",
+      "validtek": "Regulators, Social Security, Institutions",
+      "farmatek": "Pharmacies, Drug Stores, Pharmacy Chains",
+      "docAlliance": "Kinesiologists, Speech Therapists, Therapists",
+      "balanceWeb": "Health Companies, Clinics, Medical Centers",
+      "gremioCash": "UPCN, Unions, Union Organizations"
+    },
+    "productBenefits": {
+      "aiMedAssist": {
+        "0": "Reduces medical workload by 60%",
+        "1": "24/7 care without interruptions",
+        "2": "Improves patient accessibility",
+        "3": "Accelerates diagnostic processes"
+      },
+      "whatsappMedBot": {
+        "0": "Increases treatment adherence",
+        "1": "Reduces unnecessary in-person consultations",
+        "2": "Improves doctor-patient communication",
+        "3": "Immediate access from anywhere"
+      },
+      "turnoBotWhatsApp": {
+        "0": "Eliminates technological barriers",
+        "1": "Appointment booking in seconds",
+        "2": "Reduces process abandonment",
+        "3": "Higher patient satisfaction"
+      },
+      "turMedica": {
+        "0": "Reduces phone calls by 80%",
+        "1": "Increases schedule occupancy",
+        "2": "Improves patient satisfaction",
+        "3": "Eliminates missed appointments"
+      },
+      "inRoom": {
+        "0": "Reduces check-in time by 70%",
+        "1": "Optimizes hotel occupancy",
+        "2": "Improves guest experience",
+        "3": "Automates operational processes"
+      },
+      "lumenAI": {
+        "0": "Reduces manual claims by 85%",
+        "1": "24/7 automated service",
+        "2": "Improves customer satisfaction",
+        "3": "Optimizes collection management"
+      },
+      "mediFlow": {
+        "0": "Optimizes hospital occupancy",
+        "1": "Reduces waiting times",
+        "2": "Improves patient flow",
+        "3": "Increases operational efficiency"
+      },
+      "aclimed": {
+        "0": "Centralizes all information",
+        "1": "Reduces administrative errors",
+        "2": "Improves revenue control",
+        "3": "Facilitates decision making"
+      },
+      "zismed": {
+        "0": "Improves public hospital care",
+        "1": "Optimizes limited resources",
+        "2": "Reduces waiting times",
+        "3": "Facilitates government reporting"
+      },
+      "medicPay": {
+        "0": "Accelerates collection process",
+        "1": "Reduces billing errors",
+        "2": "Improves cash flow",
+        "3": "Automates reconciliations"
+      },
+      "finFlow": {
+        "0": "Optimizes affiliate management",
+        "1": "Controls service costs",
+        "2": "Improves user experience",
+        "3": "Facilitates regulatory compliance"
+      },
+      "validtek": {
+        "0": "Ensures service quality",
+        "1": "Reduces compliance risks",
+        "2": "Automates authorizations",
+        "3": "Improves quality control"
+      },
+      "farmatek": {
+        "0": "Prevents prescription fraud",
+        "1": "Ensures valid prescriptions",
+        "2": "Improves patient safety",
+        "3": "Complies with pharmaceutical regulations"
+      },
+      "docAlliance": {
+        "0": "Optimizes professional practice",
+        "1": "Improves treatment tracking",
+        "2": "Facilitates billing",
+        "3": "Centralizes clinical information"
+      },
+      "balanceWeb": {
+        "0": "Automates accounting processes",
+        "1": "Reduces financial errors",
+        "2": "Improves cost control",
+        "3": "Facilitates tax compliance"
+      },
+      "gremioCash": {
+        "0": "Optimizes union management",
+        "1": "Improves affiliate services",
+        "2": "Centralizes union information",
+        "3": "Facilitates benefit control"
+      }
+    }
+  },
+  "services": {
+    "badge": "Integrated Solutions",
+    "title1": "Our",
+    "title2": "Solutions",
+    "subtitle": "Everything you need to modernize your medical center in one platform",
+    "item1": {
+      "title": "Patient Management",
+      "description": "Complete system to handle medical records, appointments and patient communication",
+      "features": {
+        "0": "Digital medical records",
+        "1": "Smart appointment calendar",
+        "2": "Automatic reminders",
+        "3": "Patient portal"
+      },
+      "ctaText": "Learn More"
+    },
+    "item2": {
+      "title": "Automatic Billing",
+      "description": "Integrates directly with insurance companies and optimizes your cash flow",
+      "features": {
+        "0": "Insurance integration",
+        "1": "Online authorizations",
+        "2": "Financial reports",
+        "3": "Collection control"
+      },
+      "ctaText": "View Demo"
+    },
+    "item3": {
+      "title": "24/7 Support",
+      "description": "Specialized team available when you need help",
+      "features": {
+        "0": "Specialized technicians",
+        "1": "Preventive maintenance",
+        "2": "Automatic updates",
+        "3": "Continuous training"
+      },
+      "ctaText": "Contact Support"
+    }
+  },
+  "testimonials": {
+    "title1": "What our",
+    "title2": "clients say",
+    "subtitle": "More than 500 medical centers have transformed their management with us",
+    "item1": {
+      "name": "Dr. María González",
+      "role": "Director",
+      "company": "San Rafael Clinic",
+      "content": "Since we implemented Excelencia Digital, we reduced 4 hours of daily administrative work. Our patients are more satisfied and we can focus on medicine."
+    },
+    "item2": {
+      "name": "Dr. Juan López",
+      "role": "Cardiologist",
+      "company": "Integral Medical Center",
+      "content": "The integration with social security is perfect. We no longer waste time with manual authorizations. The system pays for itself with time savings."
+    },
+    "item3": {
+      "name": "Ana Sánchez",
+      "role": "Administrator",
+      "company": "Regional Hospital",
+      "content": "24/7 support is real. Every time we need help, they respond immediately. The implementation was super fast and without complications."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "We resolve the most common doubts about our solution",
+    "item1": {
+      "question": "What happens to our current data during migration?",
+      "answer": "We guarantee 100% secure migration of all your data. Our team handles the transfer of medical records, patients and appointments without information loss. The process includes complete verification and security backup."
+    },
+    "item2": {
+      "question": "How long does complete implementation take?",
+      "answer": "Basic implementation is completed in 24-48 hours. Team training takes 1 additional week. In total, in 2 weeks your center will be running 100% with the new system."
+    },
+    "item3": {
+      "question": "Does the system work without internet?",
+      "answer": "Yes, our system has offline mode for basic queries and loads. When connection is restored, all data syncs automatically. You never lose information."
+    },
+    "item4": {
+      "question": "Does it include integration with Argentine social security?",
+      "answer": "Completely. We have direct integration with +95% of the country's social security organizations. Automatic authorizations, electronic billing and real-time affiliate validation."
+    },
+    "item5": {
+      "question": "What technical support is included?",
+      "answer": "24/7/365 support with health-specialized technicians. Includes: installation, training, maintenance, updates and incident resolution. No additional costs."
+    }
+  },
+  "leadMagnet": {
+    "title": "Download FREE: \"Complete Guide to Digitize Your Medical Center\"",
+    "subtitle": "Discover the 7 exact steps that +500 medical centers have used to increase their efficiency and improve patient care.",
+    "includes": "Includes",
+    "features": {
+      "0": "Step-by-step implementation checklist",
+      "1": "Real success cases with metrics",
+      "2": "Customizable ROI template",
+      "3": "Technical requirements list"
+    },
+    "ctaButton": "Download Free Guide",
+    "guarantees": "✓ No spam ✓ No pushy salespeople ✓ Instant download"
+  },
+  "finalCTA": {
+    "title": "Ready to transform your medical center?",
+    "subtitle": "Join the +500 medical centers that have already optimized their management with us",
+    "demoButton": "View Personalized Demo",
+    "callButton": "Call Now",
+    "guarantees": "⚡ Setup in 24 hours • 🛡️ 100% secure data • 🎯 No minimum commitment"
+  },
+  "contactForm": {
+    "title": "🎯 Exclusive Access",
+    "description": "Complete the form and receive your personalized demo + free guide in less than 2 minutes",
+    "centerTypes": {
+      "select": "Select center type",
+      "clinic": "Private clinic",
+      "hospital": "Hospital",
+      "medicalCenter": "Medical center",
+      "consultingRoom": "Consulting room",
+      "other": "Other"
+    },
+    "placeholders": {
+      "name": "Full name",
+      "email": "Professional email",
+      "phone": "Phone"
+    },
+    "errors": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email",
+      "phoneRequired": "Phone is required",
+      "phoneInvalid": "Invalid phone",
+      "centerTypeRequired": "Select center type"
+    },
+    "submitButton": "🚀 Send and Receive Free Demo",
+    "successMessage": "Thank you! We will contact you within the next 2 hours to coordinate your personalized demo.",
+    "errorMessage": "There was an error. Please try again.",
+    "guarantees": "✓ 100% confidential information ✓ No spam ✓ Response in 2 hours"
+  },
+  "footer": {
+    "description": "+40 years leading digital transformation in healthcare, hospitality and public services. Pioneers in conversational AI for businesses. ISO 9001 Certified.",
+    "contact": "Contact",
+    "links": "Links",
+    "linkItems": {
+      "services": "Services",
+      "testimonials": "Testimonials",
+      "qualityPolicy": "Quality Policy",
+      "isoCertification": "ISO 9001 Certification",
+      "support": "24/7 Support"
+    },
+    "copyright": "All rights reserved."
+  }
+}
